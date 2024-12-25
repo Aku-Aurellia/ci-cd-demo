@@ -1,2 +1,2 @@
-# ci-cd-demo
-Repositori demo untuk jalur CI/CD GitHub Actions
+"# CI/CD Demo Project" 
+"This project demonstrates continuous integration and delivery using GitHub Actions." 
